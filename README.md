@@ -52,7 +52,7 @@ Output:
 13
 ```
 
-## Running the project
+## Running the project the target is java 8
 
 Compile the project:
 
